@@ -81,7 +81,7 @@ class CoffeeMachineTest(StageTest):
                         "This test is exactly like in the example "
                         "- try to run it by yourself"
                     )
-                 ),
+                ),
 
                 (
                     test2_input,
